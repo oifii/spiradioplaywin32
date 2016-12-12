@@ -1,0 +1,1 @@
+start spiradioplaywin32.exe "radiostations_minimal.txt" -1 180.0 1921 351 450 350 220 1 0 0 24

@@ -1,0 +1,1 @@
+start spiradioplaywin32.exe "radiostation_traxx-tech-minimal.txt" -1 1800.0 1921 351 450 350 220 1 0 0 24 "spiradioplaywin32class" "spiradioplaywin32title" "" ""

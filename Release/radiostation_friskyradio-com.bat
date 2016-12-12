@@ -1,0 +1,1 @@
+start spiradioplaywin32.exe "radiostation_friskyradio-com.txt" -1 7200.0 1921 701 450 350 220 1 0 0 24
